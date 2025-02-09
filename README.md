@@ -1,2 +1,2 @@
 # Unity-Project
-Unity project
+Prototype Project in the Unity Engine
